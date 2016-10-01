@@ -1,0 +1,14 @@
+C:\Users\Wasp\Desktop\Spreadsheet_NVelaBorja\Spreadsheet_NVelaBorja\bin\Debug\Spreadsheet_NVelaBorja.exe.config
+C:\Users\Wasp\Desktop\Spreadsheet_NVelaBorja\Spreadsheet_NVelaBorja\bin\Debug\Spreadsheet_NVelaBorja.exe
+C:\Users\Wasp\Desktop\Spreadsheet_NVelaBorja\Spreadsheet_NVelaBorja\bin\Debug\Spreadsheet_NVelaBorja.pdb
+C:\Users\Wasp\Desktop\Spreadsheet_NVelaBorja\Spreadsheet_NVelaBorja\bin\Debug\SpreadsheetEngine.dll
+C:\Users\Wasp\Desktop\Spreadsheet_NVelaBorja\Spreadsheet_NVelaBorja\bin\Debug\SpreadsheetEngine.pdb
+C:\Users\Wasp\Desktop\Spreadsheet_NVelaBorja\Spreadsheet_NVelaBorja\obj\Debug\Spreadsheet_NVelaBorja.csprojResolveAssemblyReference.cache
+C:\Users\Wasp\Desktop\Spreadsheet_NVelaBorja\Spreadsheet_NVelaBorja\obj\Debug\Spreadsheet_NVelaBorja.Form1.resources
+C:\Users\Wasp\Desktop\Spreadsheet_NVelaBorja\Spreadsheet_NVelaBorja\obj\Debug\Spreadsheet_NVelaBorja.Properties.Resources.resources
+C:\Users\Wasp\Desktop\Spreadsheet_NVelaBorja\Spreadsheet_NVelaBorja\obj\Debug\Spreadsheet_NVelaBorja.csproj.GenerateResource.Cache
+C:\Users\Wasp\Desktop\Spreadsheet_NVelaBorja\Spreadsheet_NVelaBorja\obj\Debug\Spreadsheet_NVelaBorja.exe
+C:\Users\Wasp\Desktop\Spreadsheet_NVelaBorja\Spreadsheet_NVelaBorja\obj\Debug\Spreadsheet_NVelaBorja.pdb
+C:\Users\Wasp\Documents\School\WSU\Computer Science\CptS-322_SE_Principles_I\Spreadsheet_NVelaBorja\Spreadsheet_NVelaBorja\bin\Debug\Spreadsheet_NVelaBorja.exe.config
+C:\Users\Wasp\Documents\School\WSU\Computer Science\CptS-322_SE_Principles_I\Spreadsheet_NVelaBorja\Spreadsheet_NVelaBorja\obj\Debug\Spreadsheet_NVelaBorja.exe
+C:\Users\Wasp\Documents\School\WSU\Computer Science\CptS-322_SE_Principles_I\Spreadsheet_NVelaBorja\Spreadsheet_NVelaBorja\obj\Debug\Spreadsheet_NVelaBorja.pdb

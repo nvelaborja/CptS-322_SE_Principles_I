@@ -1,0 +1,25 @@
+Welcome to VelaBorja's Spreadsheet application!
+
+Features:
+	1. Cell data entry (numerical only)
+	2. Cell reference "=A24 + B21" 
+	3. Cell color
+	4. Cell undo/redo functionality
+	5. Circular reference / Self reference detection
+
+1. Simply click on a cell and type in number values!
+2. To referenc another cell, simply type "=" into the cell followed by the cell you would like to reference.
+	For example, if cell A1 has value "55", I could type "=A1" in cell B1, and cell B1 would become "55".
+	Then, if you were to change A1's value to "44", cell B1 would also update to "44".
+3. Select one or multiple cells, then click on "Cell" on the menu bar, then "Select Color". This will spawn
+	a color selection menu. After selecting your color, click "OK" to see your changes take place. 
+	Not satisfied with how it looks? Just undo!
+4. Any change you make to the spreadsheet, regardless of how many cells were changed in a single step, can be undone.
+	Simply go to Edit > Undo ______ , where ______ will say what your most recent change was.
+	The same applies to Redo, and will only be available in the menu if you have made an Undo.
+5. If you happen to make a self reference, the spreadsheet will fill the cell with "!Self Reference".
+	For example, in cell A1, you cannot enter "=A1".
+	Similarly, if you make a circular reference, such as A1:"=B1", B1:"=B2", B2:"=A1", the B2 cell will fill
+	with "!Circular Reference" to let you know.
+
+I hope you enjoy using VelaBorja's Spreadsheet!
